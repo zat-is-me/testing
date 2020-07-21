@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testPackage.TestingAnnotation" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-07-21T02:23:15" hostname="SURFACEPRO3TATE" time="0.01">
+  <properties/>
+  <testcase name="test1" classname="testPackage.TestingAnnotation" time="0.004"/>
+  <testcase name="test2" classname="testPackage.TestingAnnotation" time="0.001"/>
+  <testcase name="test3" classname="testPackage.TestingAnnotation" time="0.001"/>
+  <testcase name="test4" classname="testPackage.TestingAnnotation" time="0.0"/>
+  <testcase name="test5" classname="testPackage.TestingAnnotation" time="0.0"/>
+  <system-out><![CDATA[Test beforeClass Annotation 1
+Test before annotation 1
+The testing method will execute here ...
+Test after annotation 1
+Test before annotation 2
+The testing method will execute here ...
+Test after annotation 2
+Test before annotation 3
+The testing method will execute here ...
+Test after annotation 3
+Test before annotation 4
+The testing method will execute here ...
+Test after annotation 4
+Test before annotation 5
+The testing method will execute here ...
+Test after annotation 5
+Test afterClass annotation 1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
